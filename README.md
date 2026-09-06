@@ -1,7 +1,7 @@
 # Raspberry Pi Quadcopter Project
 This repository contains the code for a Raspberry Pi quadcopter that is compatible with a Bluetooth game controller
 
-—> **Real-Life Application: ** I am interested in exploring how to make small-scale drones with low-cost components!
+**Real-Life Application: ** I am interested in exploring how to make small-scale drones with low-cost components!
 
 # Technical Components
 Integrating simulation testing before physical prototype development
