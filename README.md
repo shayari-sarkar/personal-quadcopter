@@ -1,5 +1,5 @@
 # Raspberry Pi Quadcopter Project
-This repository contains the code for a Raspberry Pi quadcopter that is compatible with a Bluetooth game controller
+This repository contains the code for a Raspberry Pi quadcopter that is intended to be compatible with a Bluetooth game controller
 
 **Real-Life Application:** I am interested in exploring how to make small-scale drones with low-cost components!
 
