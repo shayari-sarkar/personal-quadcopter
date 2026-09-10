@@ -18,6 +18,12 @@ void setup() {
   BL.attach(13);  // Attach the servo to GPIO pin 13
   TR.attach(28);  // Attach the servo to GPIO pin 28
   BR.attach(17);  // Attach the servo to GPIO pin 17
+
+
+  // TEST
+  Wire.setSDA(26);
+  Wire.setSCL(27);
+  // TEST
   
   Wire.beginTransmission(MPU_ADDR);
   Wire.write(0x6B);           // PWR_MGMT_1 register
